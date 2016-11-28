@@ -1,0 +1,525 @@
+    6  sudo rm A.cpp 
+    7  sudo rm A 
+    8  sudo rm .a.cc.swp 
+    9  sudo rm .fonts.conf.swp 
+   10  cd workspace/
+   11  vim A.cpp
+   12  vim A.cpp
+   13  vim A.cpp
+   14  cd workspace/
+   15  vim maze.txt 
+   16  vim maze.txt 
+   17  cd ds/
+   18  vim maze.cpp 
+   19  g++ maze.cpp -o Maze
+   20  ./Maze 
+   21  vim maze.cpp 
+   22  g++ maze.cpp -o Maze
+   23  ./Maze 
+   24  vim maze.cpp 
+   25  g++ maze.cpp -o Maze
+   26  ./Maze 
+   27  vim maze.cpp 
+   28  g++ maze.cpp -o Maze
+   29  ./Maze 
+   30  vim maze.cpp 
+   31  sudo rm .maze.cpp.swp 
+   32  vim maze.cpp 
+   33  g++ maze.cpp -o Maze
+   34  ./Maze 
+   35  vim maze.cpp 
+   36  g++ maze.cpp -o Maze
+   37  ./Maze 
+   38  vim maze.cpp 
+   39  g++ maze.cpp -o Maze
+   40  vim maze.cpp 
+   41  g++ maze.cpp -o Maze
+   42  ./Maze 
+   43  vim maze.cpp 
+   44  g++ maze.cpp -o Maze
+   45  ./Maze 
+   46  g++ maze.cpp -o Maze
+   47  vim maze.cpp 
+   48  g++ maze.cpp -o Maze
+   49  ./Maze 
+   50  vim maze.cpp 
+   51  g++ maze.cpp -o Maze
+   52  ./Maze 
+   53  vim maze.cpp 
+   54  g++ maze.cpp -o Maze
+   55  ./Maze 
+   56  vim maze.cpp 
+   57  g++ maze.cpp -o Maze
+   58  ./Maze 
+   59  cd ..
+   60  vim maze.txt 
+   61  cd ds/
+   62  ./Maze 
+   63  vim maze.txt 
+   64  vim maze.cpp 
+   65  cd ..
+   66  vim maze.txt 
+   67  cd ds/
+   68  ./Maze 
+   69  cd ..
+   70  vim maze
+   71  vim maze.txt 
+   72  ./Maze 
+   73  cd ds/
+   74  ./Maze 
+   75  ./Maze 
+   76  vim maze.cpp 
+   77  g++ maze.cpp -o Maze
+   78  ./Maze 
+   79  ./Maze 
+   80  ./Maze 
+   81  ./Maze 
+   82  vim maze.cpp 
+   83  g++ maze.cpp -o Maze
+   84  vim maze.cpp 
+   85  g++ maze.cpp -o Maze
+   86  vim maze.cpp 
+   87  g++ maze.cpp -o Maze
+   88  ./Maze 
+   89  cd ~
+   90  vim /usr/share/vim/vimfiles/archlinux.vim 
+   91  cd workspace/ds/
+   92  vim a,txt
+   93  cd ~
+   94  sudo vim .vimrc
+   95  cd workspace/ds/
+   96  vim a.java
+   97  clear
+   98  cd workspace/
+   99  cd ds/
+  100  vim maze.cpp 
+  101  clear
+  102  vim txt.cpp
+  103  g++ txt.cpp -o txt
+  104  vim txt.cpp
+  105  g++ txt.cpp -o txt
+  106  vim txt.cpp
+  107  g++ txt.cpp -o txt
+  108  ./txt 
+  109  shutdown noww
+  110  shutdown now
+  111  cd workspace/ds/
+  112  vim rand.cpp 
+  113  vim maze.cpp 
+  114  vim maze.cpp 
+  115  clear
+  164  clear
+  165  ./mazetext.sh
+  166  sudo ./mazetext.sh
+  308  bash mazetext.sh 
+  309  clear
+  310  cd workspace/ds/
+  311  vim Stack.cpp 
+  312  cd workspace/ds/
+  313  vim txt.cpp 
+  314  clear
+  315  vim rand.cpp
+  316  vim rand.txt 
+  317  clear
+  318  cd ..
+  319  vim maze1.txt
+  320  vim mazerand.cpp
+  321  clear
+  367  clear
+  368  cd ~
+  369  for((i=1;i<=10;i++)) do echo $i done; 
+  370  for((i=1;i<=10;i++)); do echo $i; done
+  371  for((i=1;i<=10;i++)); do echo $i; done
+  372  sudo ssh-keygen -t rsa -C "17853143761@163.com"
+  373  sudo vim ~/.ssh/id_rsa.pub
+  374  sudo cd /root/.ssh
+  375  cd /root
+  376  su
+  377  cd workspace/ds/
+  378  vim Stack.cpp 
+  379  ./Stack 
+  380  ./Stack 
+  381  vim Stack.cpp 
+  382  clear
+  383  cd~
+  384  cd ~
+  385  cd workspace/
+  386  mkdir php
+  387  cd php/
+  388  git clone git@github.com:ShuoHUAI/php
+  389  git clone git@github.com:ShuoHUAI/A
+  390  git clone git@github.com:ShuoHUAI/A
+  391  cd ~
+  392  git config --global user.name "ShuoHUAI"
+  393  git config --global user.email 17853143761@163.com
+  394  git init
+  395  git add.
+  396  git add
+  397  git add .
+  398  git add .
+  399  cd /home/huaishuo/.git/
+  400  vim t.cpp
+  401  git add .
+  402  cd /home/huaishuo/workspace/ds/
+  403  git add.
+  404  git add .
+  405  git commit
+  406  git commit -m
+  407  git commit -a
+  408  git commit -a
+  409  git commit -a
+  410  ls -a
+  411  sudo -ls
+  412  sudo ls -a
+  413  rm .c.cpp.swp 
+  414  git commit -a
+  415  cd workspace/
+  416  vim id_rsa.txt 
+  417  sudo vim id_rsa.txt 
+  418  sudo vim id_rsa.txt 
+  419  cd ds/
+  420  git add .
+  421  git commit -a
+  422  git remote add origin https://github.com/ShuoHUAI/A.git
+  423  git push origin master -f
+  424  sudo ssh -T git@github.com
+  425  git config --global user.name "ShuoHUAI"
+  426  git config --global user.email "17853143761@163.com"
+  427  git init
+  428  git remote add origin git@github.com:ShuoHUAI/A.git
+  429  git add .
+  430  git commit -m
+  431  git commit-m
+  432  git commit -a
+  433  git commit -m "commit"
+  434  git add .
+  435  git remote add origin git@github.com:ShuoHUAI/A.git
+  436  git push origin master
+  437  git push origin A.git
+  438  cd workspace/ds/
+  439  git init
+  440  git remote add origin git@github.com:ShuoHUAI/A.git
+  441  git add .
+  442  git commit -m "firstcommit"
+  443  git push origin master
+  444  cd ~
+  445  ssh-keygen -t rsa -C "17853143761@163.com"
+  446  vim /home/huaishuo/.ssh/id_rsa.pub 
+  447  ssh-keygen -t rsa -C "17853143761@163.com"
+  448  vim /home/huaishuo/.ssh/id_rsa.pub 
+  449  vim /home/huaishuo/.ssh/id_rsa.pub 
+  450  ssh-keygen -t rsa -C "17853143761@163.com"
+  451  nano /home/huaishuo/.ssh/id_rsa.pub 
+  452  vim /home/huaishuo/.ssh/id_rsa.pub 
+  453  cp /home/huaishuo/.ssh/id_rsa.pub /home/huaishuo/workspace/
+  454  ssh -T git@github.com
+  455  git config --global user.name "ShuoHUAI"
+  456  git config --global user.email "17853143761@163.com"
+  457  cd workspace/ds/
+  458  git init
+  459  git remote add origin git@github.com :ShuoHUAI/A.git
+  460  git remote add origin git@github.com:ShuoHUAI/A.git
+  461  git add .
+  462  git commit -m "first commit"
+  463  git push origin master
+  464  git add .
+  465  git commit -m "first commit"
+  466  cd ..
+  467  cd AB/
+  468  git init
+  469  git remote add origin git@github.com:ShuoHUAI/A.git
+  470  git add .
+  471  git commit -m "first commit"
+  472  git push origin master
+  473  git push origin +master
+  474  cd .
+  475  cd ..
+  476  cd ds/
+  477  git add .
+  478  git commit -m "first commit"
+  479  git push origin +master
+  480  cd ..
+  481  cd github/
+  482  git init
+  483  git remote add origin git@github.com:ShuoHUAI/A.git
+  484  git add .
+  485  git push origin +master
+  486  git commit -m "first commit"
+  487  git push origin +master
+  488  cd ..
+  489  cd ..
+  490  cd mygithub/
+  491  git init
+  492  git remote add origin git@github.com:ShuoHUAI/myfile.git
+  493  git add .
+  494  git commit -m "first commit"
+  495  git push origin master
+  496  git add .
+  497  git add mazerand.cpp 
+  498  git commit -m "second commit"
+  499  git push origin master
+  500  history 
+  501  mkdir history
+  502  cd history/
+  503  cd ..
+  504  history>>history/
+  505  history>>history/history.txt
+   21  cd ds/
+   22  vim maze.cpp 
+   23  clear
+   24  vim txt.cpp
+   25  g++ txt.cpp -o txt
+   26  vim txt.cpp
+   27  g++ txt.cpp -o txt
+   28  vim txt.cpp
+   29  g++ txt.cpp -o txt
+   30  ./txt 
+   31  shutdown noww
+   32  shutdown now
+   33  cd workspace/ds/
+   34  vim rand.cpp 
+   35  vim maze.cpp 
+   36  vim maze.cpp 
+   87  ./mazetext.sh
+   88  sudo ./mazetext.sh
+  233  vim Stack.cpp 
+  234  cd workspace/ds/
+  235  vim txt.cpp 
+  236  clear
+  237  vim rand.cpp
+  238  vim rand.txt 
+  239  clear
+  240  cd ..
+  241  vim maze1.txt
+  242  vim mazerand.cpp
+  243  clear
+  291  for((i=1;i<=10;i++)) do echo $i done; 
+  292  for((i=1;i<=10;i++)); do echo $i; done
+  293  for((i=1;i<=10;i++)); do echo $i; done
+  294  sudo ssh-keygen -t rsa -C "17853143761@163.com"
+  295  sudo vim ~/.ssh/id_rsa.pub
+  296  sudo cd /root/.ssh
+  297  cd /root
+  298  su
+  299  cd workspace/ds/
+  300  vim Stack.cpp 
+  301  ./Stack 
+  302  ./Stack 
+  303  vim Stack.cpp 
+  304  clear
+  305  cd~
+  306  cd ~
+  307  cd workspace/
+  308  mkdir php
+  309  cd php/
+  310  git clone git@github.com:ShuoHUAI/php
+  311  git clone git@github.com:ShuoHUAI/A
+  312  git clone git@github.com:ShuoHUAI/A
+  313  cd ~
+  314  git config --global user.name "ShuoHUAI"
+  315  git config --global user.email 17853143761@163.com
+  316  git init
+  317  git add.
+  318  git add
+  319  git add .
+  320  git add .
+  321  cd /home/huaishuo/.git/
+  322  vim t.cpp
+  323  git add .
+  324  cd /home/huaishuo/workspace/ds/
+  325  git add.
+  326  git add .
+  327  git commit
+  328  git commit -m
+  329  git commit -a
+  330  git commit -a
+  331  git commit -a
+  332  ls -a
+  333  sudo -ls
+  334  sudo ls -a
+  335  rm .c.cpp.swp 
+  336  git commit -a
+  337  cd workspace/
+  338  vim id_rsa.txt 
+  339  sudo vim id_rsa.txt 
+  340  sudo vim id_rsa.txt 
+  341  cd ds/
+  342  git add .
+  343  git commit -a
+  344  git remote add origin https://github.com/ShuoHUAI/A.git
+  345  git push origin master -f
+  346  sudo ssh -T git@github.com
+  347  git config --global user.name "ShuoHUAI"
+  348  git config --global user.email "17853143761@163.com"
+  349  git init
+  350  git remote add origin git@github.com:ShuoHUAI/A.git
+  351  git add .
+  352  git commit -m
+  353  git commit-m
+  354  git commit -a
+  355  git commit -m "commit"
+  356  git add .
+  357  git remote add origin git@github.com:ShuoHUAI/A.git
+  358  git push origin master
+  359  git push origin A.git
+  360  cd workspace/ds/
+  361  git init
+  362  git remote add origin git@github.com:ShuoHUAI/A.git
+  363  git add .
+  364  git commit -m "firstcommit"
+  365  git push origin master
+  366  cd ~
+  367  ssh-keygen -t rsa -C "17853143761@163.com"
+  368  vim /home/huaishuo/.ssh/id_rsa.pub 
+  369  ssh-keygen -t rsa -C "17853143761@163.com"
+  370  vim /home/huaishuo/.ssh/id_rsa.pub 
+  371  vim /home/huaishuo/.ssh/id_rsa.pub 
+  372  ssh-keygen -t rsa -C "17853143761@163.com"
+  373  nano /home/huaishuo/.ssh/id_rsa.pub 
+  374  vim /home/huaishuo/.ssh/id_rsa.pub 
+  375  cp /home/huaishuo/.ssh/id_rsa.pub /home/huaishuo/workspace/
+  376  ssh -T git@github.com
+  377  git config --global user.name "ShuoHUAI"
+  378  git config --global user.email "17853143761@163.com"
+  379  cd workspace/ds/
+  380  git init
+  381  git remote add origin git@github.com :ShuoHUAI/A.git
+  382  git remote add origin git@github.com:ShuoHUAI/A.git
+  383  git add .
+  384  git commit -m "first commit"
+  385  git push origin master
+  386  git add .
+  387  git commit -m "first commit"
+  388  cd ..
+  389  cd AB/
+  390  git init
+  391  git remote add origin git@github.com:ShuoHUAI/A.git
+  392  git add .
+  393  git commit -m "first commit"
+  394  git push origin master
+  395  git push origin +master
+  396  cd .
+  397  cd ..
+  398  cd ds/
+  399  git add .
+  400  git commit -m "first commit"
+  401  git push origin +master
+  402  cd ..
+  403  cd github/
+  404  git init
+  405  git remote add origin git@github.com:ShuoHUAI/A.git
+  406  git add .
+  407  git push origin +master
+  408  git commit -m "first commit"
+  409  git push origin +master
+  410  cd ..
+  411  cd ..
+  412  cd mygithub/
+  413  git init
+  414  git remote add origin git@github.com:ShuoHUAI/myfile.git
+  415  git add .
+  416  git commit -m "first commit"
+  417  git push origin master
+  418  git add .
+  419  git add mazerand.cpp 
+  420  git commit -m "second commit"
+  421  git push origin master
+  422  history 
+  423  mkdir history
+  424  cd history/
+  425  cd ..
+  426  history>>history/
+  427  history>>history/history.txt
+  428  cd workspace/ds/\
+  429  cd workspace/ds/
+  430  cp Stack.cpp /home/huaishuo/workspace/
+  431  cd ..
+  432  vim Stack.cpp 
+  433  rm Stack.cpp 
+  434  clear
+  435  cd ~
+  436  sudo pacman -Syu
+  437  cd workspace/
+  438  mkdir Tex
+  439  cd workspace/ds/
+  440  ./Stack 
+  441  reboot
+  442  cd workspace/ds/
+  443  ./Spare 
+  444  ./Hase
+  445  ./HaseList
+  446  cd ~
+  447  sudo pacman -S iceweasel
+  448  sudo pacman -S winetricks 
+  449  sudo pacman -S wine
+  450  sudo pacman -S Wine
+  451  sudo pacman -S wine
+  452  sudo vim /etc/pacman.conf 
+  453  sudo pacman -S wine
+  454  sudo pacman -S winetricks 
+  455  sudo vim /etc/pacman.conf 
+  456  sudo pacman -Sy
+  457  sudo pacman -S wine
+  458  sudo pacman -S winetricks 
+  459  mkdir workforwine
+  460  cd work
+  461  cd workforwine/
+  462  wget https://github.com/hillwoodroc/winetricks-zh/raw/master/verb/qq.verb
+  463  WINEARCH=win32 winetricks qq
+  464  wget https://github.com/hillwoodroc/winetricks-zh/raw/master/winetricks-zh
+  465  chmod +x winetricks-zh
+  466   ./winetricks-zh
+  467  ./winetricks-zh
+  468  sudo ./winetricks-zh 
+  469  rm -rf ~/.wine
+  470  sudo pacman -S wine-mono 
+  471  sudo pacman -S wine_gecko 
+  472  sudo pacman -S wqy-microhei
+  473  WINEARCH=win32 winetricks qq
+  474  reboot
+  475  ls -a
+  476  sudo pacman -Rs wine
+  477  sudo pacman -Rc wine
+  478  sudo pacman -Sy
+  479  sudo pacman -Su
+  480  sudo pacman -S screenfetch 
+  481  screenfetch 
+  482  screenfetch 
+  483  screenfetch 
+  484  cd mygithub/
+  485  vim os.txt
+  486  screenfetch 
+  487  clear
+  488  screenfetch 
+  489  cd ..
+  490  cd workspace/ds/
+  491  ./Stack 
+  492  cd ..
+  493  cd ..
+  494  rm --h
+  495  rm -r workforwine/
+  496  cd workspace/ds/
+  497  ./Stack 
+  498  clear
+  499  reboot
+  500  sudo
+  501  cd /root
+  502  sudo cd /root/
+  503  su
+  504  clear
+  505  错的
+  506  clear
+  507  sudo systemctl enable mariadb@ 
+  508  clear
+  509  cd /usr/share/applications/
+  510  ls -a
+  511  rm org.kde.filelight.desktop 
+  512  ls -a
+  513  cd~
+  514  cd ~
+  515  su
+  516  ftp 127.0.0.1
+  517  cleat
+  518  clear
+  519  clear
+  520  history >>/home/huaishuo/history/history.txt 
